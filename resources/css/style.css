@@ -7,6 +7,10 @@ body {
   font-family: Helvetica;
 }
 .banner {
+  background-image: url(../images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: black;
 
 }
 
@@ -29,12 +33,15 @@ h3 {
 }
 .midline {
   color: white;
-  width: 95%;
-  background-image: url();
+  background-image: url(../images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  background-color: black;
 }
 footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
   width: 95%;
+  text-align: left;
 }
+a {color: white;}
