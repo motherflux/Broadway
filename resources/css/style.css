@@ -8,9 +8,7 @@ body {
 }
 .banner {
   background-image: url(../images/the-flatiron-building.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-color: black;
+  
 
 }
 
@@ -34,8 +32,7 @@ h3 {
 .midline {
   color: white;
   background-image: url(../images/the-flatiron-building.png);
-  background-repeat: no-repeat;
-  background-color: black;
+
 }
 footer {
   font-size: 11px;
